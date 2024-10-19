@@ -22,3 +22,4 @@ _Toma de decisioes
 ![image](https://github.com/user-attachments/assets/bf0f26db-a0dd-410a-9f48-6d494f11ec86)
 
 
+
