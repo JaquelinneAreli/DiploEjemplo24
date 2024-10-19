@@ -20,7 +20,7 @@ _Toma de decisioes
 3. Conclusión *3*
 
 ![image](https://github.com/user-attachments/assets/bf0f26db-a0dd-410a-9f48-6d494f11ec86)
-<img src="[URL_de_la_imagen](https://github.com/user-attachments/assets/bf0f26db-a0dd-410a-9f48-6d494f11ec86)" alt="Descripción de la imagen" width="200"/>
+<img src="https://github.com/user-attachments/assets/bf0f26db-a0dd-410a-9f48-6d494f11ec86" width="200"/>
 
 
 
